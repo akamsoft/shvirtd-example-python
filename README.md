@@ -1,3 +1,4 @@
+1
 # shvirtd-example-python
 
 Учебный проект FastAPI-приложения для изучения Docker Compose.
